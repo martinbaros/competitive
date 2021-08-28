@@ -1,0 +1,11 @@
+zmena
+ostava
+9
+zmena
+ostava
+6
+here
+13
+11
+False
+Case #1: 4 3 2 5 1

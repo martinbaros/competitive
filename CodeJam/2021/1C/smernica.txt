@@ -1,0 +1,2 @@
+cd pro && cd real_google && cd 1B
+solution.py < input_file.txt > output_file.txt
